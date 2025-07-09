@@ -6,9 +6,9 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=munilokitha&style=flat-square&color=blueviolet)
-![GitHub Followers](https://img.shields.io/github/followers/munilokitha?label=Followers&style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/munilokitha?label=Stars&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=lokitha-muni&style=flat-square&color=blueviolet)
+![GitHub Followers](https://img.shields.io/github/followers/lokitha-muni?label=Followers&style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/lokitha-muni?label=Stars&style=flat-square)
 
 </div>
 
