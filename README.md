@@ -103,14 +103,14 @@ journey
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/munilokitha/job-portal-serverless">
+  <a href="https://github.com/munilokitha/job-portal-serverless-webapp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lokitha-muni&repo=job-portal-serverless&theme=tokyonight" />
   </a>
   <a href="https://github.com/munilokitha/campus-fest-hub">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lokitha-muni&repo=campus-fest-hub&theme=tokyonight" />
   </a>
-  <a href="https://github.com/munilokitha/whispr-note">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lokitha-muni&repo=whispr-note&theme=tokyonight" />
+  <a href="https://github.com/lokitha-muni/AWS-Receipt-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lokitha-muni&repo=AWS-Receipt-Project&theme=tokyonight" />
   </a>
 </div>
 
@@ -133,8 +133,8 @@ flowchart LR
 ### 🎪 Campus Fest Hub
 AWS-based event announcement platform for colleges featuring event registration, notifications, and analytics.
 
-### 🗣️ WhisprNote
-Voice-based journaling application using AWS Lambda, Comprehend for sentiment analysis, and S3 for storage.
+### 🗣️ AWS-Receipt-Project
+Automates receipt processing using several AWS services. It demonstrates how cloud-native tools can be used to build an event-driven, real-world workflow from scratch.
 
 </details>
 
