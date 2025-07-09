@@ -77,26 +77,26 @@ journey
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=munilokitha&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lokitha-muni&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 <details>
 <summary>📈 GitHub Stats</summary>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=munilokitha&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lokitha-muni&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=munilokitha&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokitha-muni&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munilokitha&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokitha-muni&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=munilokitha&theme=radical" alt="Contribution Stats" />
+  <img src="https://github-contribution-stats.vercel.app/api/?username=lokitha-muni&theme=radical" alt="Contribution Stats" />
 </p>
 </details>
 
@@ -104,13 +104,13 @@ journey
 
 <div align="center">
   <a href="https://github.com/munilokitha/job-portal-serverless">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munilokitha&repo=job-portal-serverless&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lokitha-muni&repo=job-portal-serverless&theme=tokyonight" />
   </a>
   <a href="https://github.com/munilokitha/campus-fest-hub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munilokitha&repo=campus-fest-hub&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lokitha-muni&repo=campus-fest-hub&theme=tokyonight" />
   </a>
   <a href="https://github.com/munilokitha/whispr-note">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munilokitha&repo=whispr-note&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lokitha-muni&repo=whispr-note&theme=tokyonight" />
   </a>
 </div>
 
@@ -165,24 +165,24 @@ When I'm not coding, you'll find me painting and designing - creativity flows fr
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://github.com/munilokitha">
+  <a href="https://github.com/lokitha-muni">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/munilokitha">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:munilokitha@example.com">
+  <a href="mailto:lokithamuni3@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=munilokitha&style=flat-square&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=lokitha-muni&style=flat-square&color=blueviolet" alt="Profile views" />
 </div>
 
 <div align="center">
   
-  ![Snake animation](https://github.com/munilokitha/munilokitha/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/lokitha-muni/lokitha-muni/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
