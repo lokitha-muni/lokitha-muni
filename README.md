@@ -6,11 +6,10 @@
 
 <div align="center">
   
-  [![Visits Badge](https://badges.pufler.dev/visits/munilokitha/munilokitha)](https://github.com/munilokitha)
-  [![Years Badge](https://badges.pufler.dev/years/munilokitha)](https://github.com/munilokitha)
-  [![Repos Badge](https://badges.pufler.dev/repos/munilokitha)](https://github.com/munilokitha)
-  [![Gists Badge](https://badges.pufler.dev/gists/munilokitha)](https://gist.github.com/munilokitha)
-  
+![Profile Views](https://komarev.com/ghpvc/?username=munilokitha&style=flat-square&color=blueviolet)
+![GitHub Followers](https://img.shields.io/github/followers/munilokitha?label=Followers&style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/munilokitha?label=Stars&style=flat-square)
+
 </div>
 
 ## 👨‍💻 About Me
