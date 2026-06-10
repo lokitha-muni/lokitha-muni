@@ -25,7 +25,7 @@
 <summary>📊 My Coding Journey</summary>
 <br>
 
-####mermaid
+'''mermaid
 journey
   title My Coding Journey
   section College
@@ -36,7 +36,7 @@ journey
     AWS Certification: 4: Me
     First Internship: 5: Me
     Open Source Contribution: 4: Me
-
+'''
 </details>
 
 ## 🛠️ Tech Stack
