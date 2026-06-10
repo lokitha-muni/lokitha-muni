@@ -21,24 +21,6 @@
 - 🔭 Working on cloud-native applications and serverless architectures
 - 🎯 Goal: To build innovative cloud-native apps and become a Cloud/DevOps Engineer
 
-<details>
-<summary>📊 My Coding Journey</summary>
-<br>
-
-'''mermaid
-journey
-  title My Coding Journey
-  section College
-    Started Coding: 5: Me
-    First Project: 3: Me
-    Hackathon Win: 5: Me
-  section Career
-    AWS Certification: 4: Me
-    First Internship: 5: Me
-    Open Source Contribution: 4: Me
-'''
-</details>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
